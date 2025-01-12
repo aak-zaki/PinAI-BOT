@@ -37,7 +37,7 @@ npm install
 
 ### 1. Register on PinAI:
 
-- Visit this link to register: [PinAI Registration](https://t.me/hi_PIN_bot/app?startapp=pBVlK4n)
+- Visit this link to register: [PinAI Registration](https://t.me/hi_PIN_bot/app?startapp=p5wGcFP)
 - After registration, copy the initialization data
 
 ### 2. Set Up data.txt:
